@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Luke Skywalker', '560.750.740-82', 1200.00, TIMESTAMP WITH TIME ZONE '2000-07-14T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Darth Vader', '592.511.310-15', 100000.00, TIMESTAMP WITH TIME ZONE '1985-03-19T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Chewbacca', '139.943.400-47', 1000.00, TIMESTAMP WITH TIME ZONE '1950-11-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('R2-D2', '793.064.770-66', 0.00, TIMESTAMP WITH TIME ZONE '1996-10-12T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Leia Organa', '368.590.150-80', 7000.00, TIMESTAMP WITH TIME ZONE '2001-07-14T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Han Solo', '531.400.910-28', 2000.00, TIMESTAMP WITH TIME ZONE '1998-02-10T10:00:00Z', 3);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Obi-Wan Kenobi', '785.824.820-00', 3200.00, TIMESTAMP WITH TIME ZONE '1972-01-04T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('C-3PO', '583.941.180-97', 200.00, TIMESTAMP WITH TIME ZONE '1930-12-29T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Yoda', '657.752.330-42', 25000.00, TIMESTAMP WITH TIME ZONE '1900-09-24T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Jar Jar Binks', '127.902.340-09', 25000.00, TIMESTAMP WITH TIME ZONE '1900-09-24T10:00:00Z', 0);

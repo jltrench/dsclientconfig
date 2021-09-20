@@ -1,0 +1,10 @@
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Darth Vader', 59251131015, 100000, 05/02/1210);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);

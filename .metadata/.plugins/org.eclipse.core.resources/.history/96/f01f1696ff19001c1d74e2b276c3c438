@@ -1,0 +1,5 @@
+package com.devsuperior.dsclientconfig.entities;
+
+public class Client {
+
+}

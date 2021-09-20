@@ -1,0 +1,6 @@
+INSERT INTO tb_client (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_client (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_client (name, created_At) VALUES ('Computadores', NOW());INSERT INTO tb_category (name, created_At) VALUES ('Livros', NOW());
+INSERT INTO tb_client (name, created_At) VALUES ('Eletrônicos', NOW());
+INSERT INTO tb_client (name, created_At) VALUES ('Computadores', NOW());
+INSERT INTO tb_product (name, cpf, income, birthDate, children) VALUES ('Luke Skywalker', 56075074082, 3200, 12/12/1240);
