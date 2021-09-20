@@ -8,8 +8,6 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
-import javax.persistence.PrePersist;
-import javax.persistence.PreUpdate;
 import javax.persistence.Table;
 
 @Entity
@@ -40,12 +38,6 @@ public class Client implements Serializable {
 		this.children = children;
 	}
 	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant createdAt;
-	
-	@Column(columnDefinition = "TIMESTAMP WITHOUT TIME ZONE")
-	private Instant updatedAt;
-
 	public Long getId() {
 		return id;
 	}
@@ -94,16 +86,6 @@ public class Client implements Serializable {
 		this.children = children;
 	}
 	
-	@PrePersist
-	public void prePersist() {
-		createdAt = Instant.now();
-	}
-	
-	@PreUpdate
-	public void preUpdate() {
-		updatedAt = Instant.now();
-	}
-
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -128,6 +110,4 @@ public class Client implements Serializable {
 			return false;
 		return true;
 	}
-	
-
 }

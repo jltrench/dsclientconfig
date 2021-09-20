@@ -8,3 +8,13 @@ INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Obi-Wan
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('C-3PO', '583.941.180-97', 200.00, TIMESTAMP WITH TIME ZONE '1930-12-29T10:00:00Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Yoda', '657.752.330-42', 25000.00, TIMESTAMP WITH TIME ZONE '1900-09-24T10:00:00Z', 0);
 INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Jar Jar Binks', '127.902.340-09', 25000.00, TIMESTAMP WITH TIME ZONE '1996-09-24T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Thor', '674.535.930-85', 78828.00, TIMESTAMP WITH TIME ZONE '1200-07-14T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Frigg', '264.695.010-10', 516837.00, TIMESTAMP WITH TIME ZONE '1195-03-19T10:00:00Z', 7);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Baldr', '080.127.580-67', 97844.00, TIMESTAMP WITH TIME ZONE '1229-11-12T10:00:00Z', 1);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Loki', '147.451.360-30', 7147.00, TIMESTAMP WITH TIME ZONE '1101-10-12T10:00:00Z', 4);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Hel', '925.222.930-28', 7000.00, TIMESTAMP WITH TIME ZONE '1220-07-14T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Freya', '460.046.110-00', 7772.00, TIMESTAMP WITH TIME ZONE '1231-02-10T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Odin', '427.244.080-20', 6444.00, TIMESTAMP WITH TIME ZONE '1100-01-04T10:00:00Z', 9);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Sif', '669.431.910-04', 8708.00, TIMESTAMP WITH TIME ZONE '1230-12-29T10:00:00Z', 2);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Tyr', '883.892.130-01', 2545.00, TIMESTAMP WITH TIME ZONE '1245-09-24T10:00:00Z', 0);
+INSERT INTO tb_client (name, cpf, income, birth_Date, children) VALUES ('Fenrir', '867.817.040-95', 2100.00, TIMESTAMP WITH TIME ZONE '1246-09-24T10:00:00Z', 0);
